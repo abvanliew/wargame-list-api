@@ -1,0 +1,58 @@
+{
+  "AvatarOfKhaine": {
+    "name": "Avatar of Khaine",
+    "role": "HQ",
+    "profileArt": "path/to/image",
+    "unique": true,
+    "powerLevel": 1,
+    "models": [
+      {
+        "name": "Avatar of Khaine",
+        "min": 1,
+        "max": 1,
+        "points": 200,
+        "charactsticProfile": [
+          {
+            "movement": 10,
+            "weaponSkill": 2,
+            "ballisticSkill": 2,
+            "strength": 7,
+            "toughness": 8,
+            "wounds": 14,
+            "attacks": 7,
+            "leadership": 10,
+            "save": 2
+          }
+        ],
+        "wargear": []
+      }
+    ],
+    "wargear": [
+      "TheWailingDoom-Shooting",
+      "TheWeailingDoom-Melee"
+    ],
+    "commonAbilities": [
+      "BattleFocus", "StrandsOfFate"
+    ],
+    "abilities": [
+      {
+        "name": "Avatar of the Bloody-Handed God",
+        "tags" : [],
+        "description": "This model can never have a Relic of a Warlord Trait"
+      }
+    ],
+    "factionKeywords": [
+      "Aeldari",
+      "Asuryani"
+    ],
+    "subFactionKeywords": [
+      "Craftworld"
+    ],
+    "keywords": [
+      "Character",
+      "Monster",
+      "Daemon",
+      "Avatar of Khaine"
+    ]
+  }
+}
